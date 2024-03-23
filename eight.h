@@ -2,7 +2,7 @@
 #include <fstream>
 using namespace std;
 
-#define SOL3
+#define SOL1
 
 void output(int situation, ofstream &fout){
     string str = "\n";
